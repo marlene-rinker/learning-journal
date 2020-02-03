@@ -16,3 +16,9 @@ ls -la - get a longer list of files
 cat - what's in the file (cat newfile.txt)
 
 Tip: Use tab to autofile in names of directories or files.
+
+## Links
+
+[Command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+[Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+[Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
