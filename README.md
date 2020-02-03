@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Marlene's Learning Journal for Code 201
 
-You can use the [editor on GitHub](https://github.com/marlene-rinker/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth Mindset
+A growth mindset means that there is no limit to what I can do if I'm willing to have the right attitude and work hard. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reminders
+1.
+2.
+3.
+
+[Link] (https://github.com/marlene-rinker)
 
 ### Markdown
 
