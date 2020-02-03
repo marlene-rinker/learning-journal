@@ -22,6 +22,8 @@ _Use Italics_
 
 *This makes italics too.*
 
+~~strikethrough~~
+
 
 
 ## Lists
@@ -29,14 +31,52 @@ _Use Italics_
 1. Item 1
 1. Item 2
 1. Item 3
+    1. four spaces for sublevel
 1. Item 4
 
 ### Bullet List
 * Item
 * Item
   * Sub-item
+  
+- item
+- item
 
-## Tables
++ item
++ item
+
+Use same syntax in a list
+  
+
+### Checklist  
+- [ ] Thing 1
+- [x] Thing 2
+- [x] *Thing 3*
+- [x] **Thing 4**
+- [ ] _**Thing 5**_
+
+
+## Blockquotes
+>This is a blockquote.
+>> Nested blockquote
+
+## Table
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+## Links
+[This is a link to Google using the URL](https://www.google.com/)
+
+[id]: https://shop.nordstrom.com/ Let's go [shopping][id].
+
+
+
+## More
+[Here's a link to a markdown cheatsheet that I found](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
+Space space at end can create another line
+<!-- commented out -->
 
 
 ### Markdown
