@@ -1,0 +1,18 @@
+# Cheatsheet for using Terminal
+
+Tip: Compare to Finder to see how it is the same, but a more efficient way to manage and navigate through your files.
+The terminal has more functionality than Finder. You can create scripts and aliases. 
+
+## Common commands
+
+pwd - find the path of the working directory
+ls - get a list of files
+cd - change directory
+cd .. - goes back one level in the directory
+touch - create a new file (touch newfile.txt)
+mkdir - create a new directory (mkdir test)
+open - open a file (open newfile.txt)
+ls -la - get a longer list of files
+cat - what's in the file (cat newfile.txt)
+
+Tip: Use tab to autofile in names of directories or files.
