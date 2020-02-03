@@ -11,7 +11,7 @@ A growth mindset means that there is no limit to what I can do if I'm willing to
 2. Everyone was a beginner at some point. 
 3. Don't compare yourself to others. Just make sure you're putting forth your best effort.
 
-[Link] (https://github.com/marlene-rinker)
+[Find me on GitHub](https://github.com/marlene-rinker)
 
 ### Markdown
 
