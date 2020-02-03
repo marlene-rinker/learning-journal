@@ -69,7 +69,7 @@ Content in the first column | Content in the second column
 ## Links
 [This is a link to Google using the URL](https://www.google.com/)
 
-[id]: https://shop.nordstrom.com/ Let's go [shopping][id].
+<!-- [id]: https://shop.nordstrom.com/ Let's go [shopping][id]. -->
 
 
 
