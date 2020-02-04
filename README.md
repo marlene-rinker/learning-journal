@@ -9,8 +9,6 @@ This journal describes the things I'm learning at Code Fellows in Code 102. Want
 
 [Learning markdown](https://marlene-rinker.github.io/learning-journal/learning-markdown)
 
-[Markdown notes](https://marlene-rinker.github.io/learning-journal/markdown_notes)
-
 [Test editors](https://marlene-rinker.github.io/learning-journal/text-editors)
 
 [Using terminal](https://marlene-rinker.github.io/learning-journal/using-terminal)

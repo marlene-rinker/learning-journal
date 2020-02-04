@@ -27,3 +27,7 @@ Tip: Use tab to autofill in names of directories or files.
 [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+
+---
+[Home page](https://marlene-rinker.github.io/learning-journal/)

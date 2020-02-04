@@ -23,3 +23,6 @@ Most of these are free and have the features mentioned in "What to look for."
 - Atom - made by GitHub
 - Brackets - made by Adobe
 - Sublime Text - not free
+
+---
+[Home page](https://marlene-rinker.github.io/learning-journal/)
