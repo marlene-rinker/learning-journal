@@ -12,3 +12,6 @@ This journal describes the things I'm learning at Code Fellows in Code 102. Want
 [Test editors](https://marlene-rinker.github.io/learning-journal/text-editors)
 
 [Using terminal](https://marlene-rinker.github.io/learning-journal/using-terminal)
+
+### Tuesday, February 4, 2020
+[Git and GitHub](https://marlene-rinker.github.io/learning-journal/git-and-github)
