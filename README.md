@@ -1,14 +1,16 @@
 # Hello
 Hi. I'm Marlene. I'm challenging myself to learn to code and become a software developer. I'm looking forward to seeing where this path leads me.
 
-This journal describes the things I'm learning at Code Fellows in Code 102. 
+This journal describes the things I'm learning at Code Fellows in Code 102. Want to know more about what I'm learning? [Find me on GitHub](https://github.com/marlene-rinker)
 
-Want to know more about what I'm learning? [Find me on GitHub](https://github.com/marlene-rinker)
+## Table of Contents
+### Monday, February 3, 2020
+[Growth mindset](https://marlene-rinker.github.io/learning-journal/growth-mindset)
 
-## Growth mindset
-A growth mindset means that there is no limit to what I can do if I'm willing to have the right attitude and work hard. 
+[Learning markdown](https://marlene-rinker.github.io/learning-journal/learning-markdown)
 
-### Reminders to help me stay in a growth mindset
-1. Keep going even when you don't feel like it. You'll be glad you did.
-2. Everyone was a beginner at some point. 
-3. Don't compare yourself to others. Just make sure you're putting forth your best effort.
+[Markdown notes](https://marlene-rinker.github.io/learning-journal/markdown_notes)
+
+[Test editors](https://marlene-rinker.github.io/learning-journal/text-editors)
+
+[Using terminal](https://marlene-rinker.github.io/learning-journal/using-terminal)
