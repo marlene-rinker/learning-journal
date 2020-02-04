@@ -93,6 +93,9 @@ You have the ability to see your changes without a-c-p.
 
 If you want to link a stylesheet to a page, do it in the head of the HTML. (This was done in an html file in the demo.)
 
+cmd-z - undo
+shift-cmd-z - redo
+
 ---
 [Home page](https://marlene-rinker.github.io/learning-journal/)
 
