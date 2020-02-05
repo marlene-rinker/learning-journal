@@ -81,3 +81,5 @@ HTML5 is a new set of elements that provides alternatives to using the `<div>` t
 * \<meta> allows you to provide information about your page
 *  escape characters are used to put special characters on your page 
 
+---
+[Home page](https://marlene-rinker.github.io/learning-journal/)
