@@ -18,4 +18,4 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 ### Tuesday, February 4, 2020
 [Git and GitHub](https://marlene-rinker.github.io/learning-journal/git-and-github)
 
-[Structure with HTML](https://marlene-rinker.github.io/learning-journal/git-and-github)
+[Structure with HTML](https://marlene-rinker.github.io/learning-journal/structure-with-html)
