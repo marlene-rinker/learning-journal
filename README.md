@@ -23,3 +23,4 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 ### Wednesday, February 5, 2020
 [Design with CSS](https://marlene-rinker.github.io/learning-journal/design-with-css)
 
+[Dynamic web pages with JavaScript](https://marlene-rinker.github.io/learning-journal/dynamic-pages-javascript)
