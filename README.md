@@ -19,3 +19,7 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 [Git and GitHub](https://marlene-rinker.github.io/learning-journal/git-and-github)
 
 [Structure with HTML](https://marlene-rinker.github.io/learning-journal/structure-with-html)
+
+### Wednesday, February 5, 2020
+[Design with CSS](https://marlene-rinker.github.io/learning-journal/design-with-css)
+
