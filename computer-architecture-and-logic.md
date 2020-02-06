@@ -1,6 +1,6 @@
 ## Computer architecture and logic
 
-[Videos from Code.org are here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+[Videos from Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
 ### Four tasks that all computers must perform
 
