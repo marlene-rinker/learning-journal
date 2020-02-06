@@ -53,7 +53,6 @@
 
     * `sayHello();`
     * `getArea(3,5);`
-
 * Functions can return a value to the code that called it.
 ---
 [Home page](https://marlene-rinker.github.io/learning-journal/)
