@@ -24,3 +24,5 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 [Design with CSS](https://marlene-rinker.github.io/learning-journal/design-with-css)
 
 [Dynamic web pages with JavaScript](https://marlene-rinker.github.io/learning-journal/dynamic-pages-javascript)
+
+[Computer architecture and logic](https://marlene-rinker.github.io/learning-journal/computer-architecture-and-logic)
