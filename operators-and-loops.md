@@ -6,16 +6,16 @@
 * The result is a Boolean: true or false
 * It's preferable to use the strict method.
 
-    * Comparison == compares the characters '3' == 3 is true
-    * Comparison === compares the characters and data type (strict method) '3' === 3 is false
+    * `==` compares the characters `'3' == 3` is true
+    * `===` compares the characters and data type (strict method) `'3' === 3`is false
 * Used to evaluate the condition
 
 ### Logical operators
 
 * Allow you to compare the results of more than one comparison operator
-* Logical And (&&) tests more than one condition - true if both are true, false if either is false
-* Logical Or (||) tests at least one condition - true if either is true, false if both are false
-* Logical Not (!) takes a single Boolean value and inverts it - reverses the state of an expression
+* Logical And (`&&`) tests more than one condition - true if both are true, false if either is false
+* Logical Or (`||`) tests at least one condition - true if either is true, false if both are false
+* Logical Not (`!`) takes a single Boolean value and inverts it - reverses the state of an expression
 * Logical expressions are evaluated left to right. If evaluation of first condition provides enough info, it doesn't evaluate the second one.
 
 ### Loops
