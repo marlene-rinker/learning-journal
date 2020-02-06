@@ -30,3 +30,5 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 ### Thursday, February 6, 2020
 
 [Programming with JavaScript](https://marlene-rinker.github.io/learning-journal/programming-with-javascript)
+
+[Operators and loops](https://marlene-rinker.github.io/learning-journal/operators-and-loops)
