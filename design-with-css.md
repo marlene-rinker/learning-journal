@@ -35,7 +35,7 @@
     - Last rule - if selectors are identical, the last one listed takes precedence
     - Specificity - if one selector is more specific than another, the more specific one will take precedence
 
-        - h1 is mor specific than *
+        - h1 is more specific than *
         - p b is more specific than p
         - p#intro is more specific than p
     - Important - if you add !important after any property value, then if will always be considered more important than other rules that apply to the same element

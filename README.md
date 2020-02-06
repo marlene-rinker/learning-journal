@@ -26,3 +26,7 @@ Want to know more about what I'm learning? [Find me on GitHub](https://github.co
 [Dynamic web pages with JavaScript](https://marlene-rinker.github.io/learning-journal/dynamic-pages-javascript)
 
 [Computer architecture and logic](https://marlene-rinker.github.io/learning-journal/computer-architecture-and-logic)
+
+### Thursday, February 6, 2020
+
+[Programming with JavaScript](https://marlene-rinker.github.io/learning-journal/programming-with-javascript)
